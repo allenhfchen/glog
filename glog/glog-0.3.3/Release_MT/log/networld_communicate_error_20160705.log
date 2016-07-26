@@ -1,0 +1,15 @@
+Log file created at: 2016/07/05 16:42:08
+Running on machine: ALLENHFCHEN-PC4
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0705 16:42:08.781565 20404 networld_communicate.cpp:998] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->server_comm  VoiceGetConfig fail,error nResult=-1,voice_config=
+E0705 16:42:09.781666 20404 networld_communicate.cpp:1006] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->[VoiceGetConfig]Try 1 times.still fail,voice_config=
+Log file created at: 2016/07/05 17:12:25
+Running on machine: ALLENHFCHEN-PC4
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0705 17:12:25.266263  5596 networld_communicate.cpp:998] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->server_comm  VoiceGetConfig fail,error nResult=-1,voice_config=
+E0705 17:12:26.266242  5596 networld_communicate.cpp:1006] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->[VoiceGetConfig]Try 1 times.still fail,voice_config=
+Log file created at: 2016/07/05 17:26:33
+Running on machine: ALLENHFCHEN-PC4
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0705 17:26:33.805616 11824 networld_communicate.cpp:998] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->server_comm  VoiceGetConfig fail,error nResult=-1,voice_config=
+E0705 17:26:34.805616 11824 networld_communicate.cpp:1006] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->[VoiceGetConfig]Try 1 times.still fail,voice_config=

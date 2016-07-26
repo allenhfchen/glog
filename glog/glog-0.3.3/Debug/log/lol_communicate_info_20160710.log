@@ -1,0 +1,10 @@
+Log file created at: 2016/07/10 00:01:14
+Running on machine: ALLENHFCHEN-PC4
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0710 00:01:14.169514  6864 lol_communicate.cpp:687] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::Get_Set_LoginStatus->[Get LolBtn LoginState]set_snetbaraccount:lyclsgz,set_unetbarid:186,set_suniquecode:4C49FBF2D37EB133A4F14594237D8E39
+I0710 00:01:14.191516  6864 TcpClient.cpp:147] CTcpClient::SendData->[CTcpClient::SendData]senddata success,datasize=78
+I0710 00:01:14.196517  6864 TcpClient.cpp:170] CTcpClient::Close->socket close,socket=1496
+I0710 00:01:14.196517  6864 lol_communicate.cpp:759] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::LolStatusCommunicate-><===connect server success,ip=rewards.wb.qq.com===>
+I0710 00:01:14.196517  6864 TcpClient.cpp:170] CTcpClient::Close->socket close,socket=1496
+I0710 00:01:14.196517  6864 lol_communicate.cpp:781] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::ParseLolStatus->nMessageType=10001,nRecvSize=11,result=0,errorMsg=success
+I0710 00:01:14.196517  6864 lol_communicate.cpp:816] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::ParseLolStatus->GetLoginStatus Success,LolBtn Was Open!

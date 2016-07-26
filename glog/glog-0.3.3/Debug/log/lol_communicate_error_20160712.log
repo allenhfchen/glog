@@ -1,0 +1,4 @@
+Log file created at: 2016/07/12 00:02:03
+Running on machine: ALLENHFCHEN-PC4
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0712 00:02:03.615260  6864 lol_communicate.cpp:808] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::ParseLolStatus->SetLoginStatus Fail,Token Was TimeOut!

@@ -1,0 +1,5 @@
+Log file created at: 2015/09/22 17:27:23
+Running on machine: ALLENHFCHEN-PC2
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0922 17:27:23.455440 31984 CTCPServer.cpp:509] CTCPServer::ThreadWork()-><CTCPServer::ThreadWork>Info Begin event_base_dispatch
+I0922 17:27:23.455440 34740 communicate.cpp:319] CTCPServer::ThreadWork()-><CTCPServer::ThreadWork>Info Begin event_base_dispatch

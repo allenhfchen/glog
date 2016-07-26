@@ -1,0 +1,23 @@
+Log file created at: 2016/07/10 00:00:02
+Running on machine: ALLENHFCHEN-PC4
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0710 00:00:02.414340  6864 networld_communicate.cpp:1018] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->VoiceGetConfig success
+I0710 00:00:05.489647  6864 networld_communicate.cpp:1018] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->VoiceGetConfig success
+I0710 00:00:08.558954  6864 networld_communicate.cpp:1018] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->VoiceGetConfig success
+I0710 00:00:12.061305  6864 networld_communicate.cpp:1018] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->VoiceGetConfig success
+I0710 00:00:15.060605  6864 networld_communicate.cpp:1018] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->VoiceGetConfig success
+I0710 00:00:18.061904  6864 networld_communicate.cpp:1018] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->VoiceGetConfig success
+I0710 00:00:21.059204  6864 networld_communicate.cpp:1018] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->VoiceGetConfig success
+I0710 00:00:24.061504  6864 networld_communicate.cpp:1018] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->VoiceGetConfig success
+I0710 00:00:27.060804  6864 networld_communicate.cpp:1018] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->VoiceGetConfig success
+I0710 00:00:30.062104  6864 networld_communicate.cpp:1018] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->VoiceGetConfig success
+I0710 00:00:33.034401  6864 networld_communicate.cpp:1018] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->VoiceGetConfig success
+I0710 00:00:36.103708  6864 networld_communicate.cpp:1018] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->VoiceGetConfig success
+I0710 00:00:39.174015  6864 networld_communicate.cpp:1018] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->VoiceGetConfig success
+I0710 00:00:42.247323  6864 networld_communicate.cpp:1018] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->VoiceGetConfig success
+I0710 00:00:45.746672  6864 networld_communicate.cpp:1018] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->VoiceGetConfig success
+I0710 00:00:48.746973  6864 networld_communicate.cpp:1018] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->VoiceGetConfig success
+I0710 00:00:51.748272  6864 networld_communicate.cpp:1018] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->VoiceGetConfig success
+I0710 00:00:54.518549  6864 networld_communicate.cpp:1018] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->VoiceGetConfig success
+I0710 00:00:57.587857  6864 networld_communicate.cpp:1018] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->VoiceGetConfig success
+I0710 00:01:00.657163  6864 networld_communicate.cpp:1018] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->VoiceGetConfig success

@@ -1,0 +1,37 @@
+Log file created at: 2016/07/11 16:52:13
+Running on machine: ALLENHFCHEN-PC4
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0711 16:52:13.781574 35952 cdumanager.cpp:728] iepm_qqwb::CCDUManager::make_window_message_loop->[CCDUManager]time out, restart
+I0711 16:52:13.782574 35952 cdumanager.cpp:1161] iepm_qqwb::CCDUManager::update_all->[CCDUManager]update all path
+I0711 16:52:13.782574 35952 comdeploy.cpp:609] iepm_qqwb::CComDeploy::is_game_installed->[CComDeploy]file F:\\comgame\sucess.txt exist
+I0711 16:52:13.782574 35952 comdeploy.cpp:625] iepm_qqwb::CComDeploy::is_game_installed->[CComDeploy]is_game_installed, 1
+I0711 16:52:13.782574 35952 cdumanager.cpp:1151] iepm_qqwb::CCDUManager::update_one->[CCDUManager]update on path, tid:0, path:F:/
+I0711 16:52:13.782574 35952 cdumanager.cpp:1019] iepm_qqwb::CCDUManager::push_cmd->[CCDUManager]push cmd into list, tid:0, cmd:{"fid":"update_trans_begin", "tid":0, "err":0, "path":"F:/"}
+I0711 16:52:13.832579 35952 cdumanager.cpp:1030] iepm_qqwb::CCDUManager::execute_cmd_in_list->[CCDUManager]execute cmd in list
+I0711 16:52:13.832579 35952 cdumanager.cpp:393] iepm_qqwb::CCDUManager::execute_work->CCDUManager::execute_work, {"fid":"update_trans_begin", "tid":0, "err":0, "path":"F:/"}, current state:7
+I0711 16:52:13.832579 35952 cdumanager.cpp:440] iepm_qqwb::CCDUManager::execute_work->[CCDUManager]tub is free, excute update
+I0711 16:52:13.832579 35952 cdumanager.cpp:1136] iepm_qqwb::CCDUManager::get_path->[CCDUManager]get path, tid:0
+I0711 16:52:13.832579 35952 comdeploy.cpp:609] iepm_qqwb::CComDeploy::is_game_installed->[CComDeploy]file F:\comgame\sucess.txt exist
+I0711 16:52:13.832579 35952 comdeploy.cpp:625] iepm_qqwb::CComDeploy::is_game_installed->[CComDeploy]is_game_installed, 1
+I0711 16:52:13.832579 35952 cdumanager.cpp:661] iepm_qqwb::CCDUManager::start->[CCDUManager]start
+I0711 16:52:13.832579 35952 comupdate.cpp:83] iepm_qqwb::CComUpdate::finalize->[CComUpdate]Finalize
+I0711 16:52:13.832579 35952 comupdate.cpp:163] iepm_qqwb::CComUpdate::stop->[CComUpdate]stop
+I0711 16:52:13.832579 35952 cdumanager.cpp:577] iepm_qqwb::CCDUManager::create_dfa->[CCDUManager]CreateDFA
+I0711 16:52:13.832579 35952 cdumanager.cpp:832] iepm_qqwb::CCDUManager::start_update_game->[CCDUManager]start_update_game, F:\comgame
+I0711 16:52:13.832579 35952 comupdate.cpp:104] iepm_qqwb::CComUpdate::start_update->[CComUpdate]begin_update_flow
+I0711 16:52:13.832579 35952 comupdate.cpp:113] iepm_qqwb::CComUpdate::start_update->[CComUpdate]start_update, path F:\comgame
+I0711 16:52:13.832579 35952 comupdate.cpp:83] iepm_qqwb::CComUpdate::finalize->[CComUpdate]Finalize
+I0711 16:52:13.832579 35952 comupdate.cpp:163] iepm_qqwb::CComUpdate::stop->[CComUpdate]stop
+I0711 16:52:13.832579 35952 comupdate.cpp:179] iepm_qqwb::CComUpdate::create_dfa->[CComUpdate]CreateDFA
+I0711 16:52:13.832579 35952 comupdate.cpp:336] iepm_qqwb::CComUpdate::set_status->[CComUpdate]set_status, status:2, progress:0, errorcode:0
+I0711 16:52:13.832579 35952 comupdate.cpp:214] iepm_qqwb::CComUpdate::BeginUpdate->[CComUpdate]BeginUpdate
+I0711 16:52:13.892585 35952 comupdate.cpp:782] iepm_qqwb::CComUpdate::CompareVersion->[CComUpdate] buf is {"ret":0, "url":"http://down.qq.com/iedsafe/tcj/SecureIdentify/SecureIdentifySetup_3_0_2_45931.exe","md5":"AF8A45D9A77FB0E971E933720F8E1AD8","version":"3.0.2.45931","file":"SecureIdentify.exe","mod_time":"0","crt_time":"2016-06-20 11:59:55","verid":"16","version_type":"1"}
+I0711 16:52:13.944591 35952 comupdate.cpp:336] iepm_qqwb::CComUpdate::set_status->[CComUpdate]set_status, status:8, progress:0, errorcode:0
+I0711 16:52:13.944591 35952 comupdate.cpp:292] iepm_qqwb::CComUpdate::start_timer->CComUpdate::start_timer, time:1142537000
+I0711 16:52:13.944591 35952 cdumanager.cpp:837] iepm_qqwb::CCDUManager::start_update_game->[CCDUManager]start_update_game, F:\comgame, result 1, error:0
+I0711 16:52:16.979894 35952 comupdate.cpp:151] iepm_qqwb::CComUpdate::update->[CComUpdate]make_window_message_loop, time out, current time:1142540035
+I0711 16:52:16.979894 35952 comupdate.cpp:336] iepm_qqwb::CComUpdate::set_status->[CComUpdate]set_status, status:9, progress:0, errorcode:0
+I0711 16:52:16.979894 35952 comupdate.cpp:326] iepm_qqwb::CComUpdate::on_not_need_update->[CComUpdate]on_not_need_update
+I0711 16:52:16.979894 35952 cdumanager.cpp:503] iepm_qqwb::CCDUManager::on_update_success->CCDUManager::on_update_success, needupdate:0
+I0711 16:52:16.979894 35952 cdumanager.cpp:513] iepm_qqwb::CCDUManager::on_update_success->CCDUManager:: this is game update success
+I0711 16:52:16.979894 35952 cdumanager.cpp:676] iepm_qqwb::CCDUManager::start_timer->[CCDUManager]start_timer, 1142540035

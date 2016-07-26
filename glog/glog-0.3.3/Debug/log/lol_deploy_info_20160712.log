@@ -1,0 +1,8 @@
+Log file created at: 2016/07/12 00:02:21
+Running on machine: ALLENHFCHEN-PC4
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0712 00:02:21.695068  6864 cdumanager.cpp:770] iepm_qqwb::CCDUManager::close_bkg_thread->[CCDUManager]close_bkg_thread
+I0712 00:02:21.696069 14128 cdumanager.cpp:749] iepm_qqwb::CCDUManager::make_window_message_loop->[CCDUManager]make_window_message_loop, m_bExit:1
+I0712 00:02:21.696069 14128 comupdate.cpp:83] iepm_qqwb::CComUpdate::finalize->[CComUpdate]Finalize
+I0712 00:02:21.696069 14128 comupdate.cpp:163] iepm_qqwb::CComUpdate::stop->[CComUpdate]stop
+I0712 00:02:21.696069  6864 cdumanager.cpp:770] iepm_qqwb::CCDUManager::close_bkg_thread->[CCDUManager]close_bkg_thread

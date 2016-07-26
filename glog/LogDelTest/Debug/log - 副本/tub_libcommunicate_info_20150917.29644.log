@@ -1,0 +1,5 @@
+Log file created at: 2015/09/17 15:27:49
+Running on machine: ALLENHFCHEN-PC2
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0917 15:27:49.677966 29056 communicate.cpp:322] startTcpSelectServer()->Tcp Server Start!LocalIp:10.32.70.63,PublicIp:14.17.22.34,Port:10003
+I0917 15:27:49.677966 16424 CTCPServer.cpp:503] CTCPServer::ThreadWork()-><CTCPServer::ThreadWork>Info Begin event_base_dispatch

@@ -1,0 +1,15 @@
+[2016-07-06 11:00:37.083][6864][4][cfg_mgr][cfg_file]exception(No such node (profile.on)) generated in get_cfg, node_path:profile.on
+[2016-07-06 11:00:37.083][6864][4][cfg_mgr]get_cfg failed
+[2016-07-06 11:00:37.365][6864][4][TPF_UI]TPFFile Load file  failed!
+[2016-07-06 11:00:37.365][6864][4][TPF_UI]xmlparserfactory Load xml() failed!
+[2016-07-06 11:00:38.998][6864][4][TPF_UI]CTPFImageCreator LoadImage(button_mini\mini_press.png) failed! Is3DMode=0
+[2016-07-06 11:00:39.003][6864][5]No such node (server_trait)
+[2016-07-06 11:00:39.004][6864][5]No such node (server_trait)
+[2016-07-06 11:00:39.004][6864][5]No such node (server_trait)
+[2016-07-06 11:00:39.004][6864][5]No such node (server_trait)
+[2016-07-06 11:00:39.004][6864][5]No such node (server_trait)
+[2016-07-06 11:00:39.012][6864][4][TPF_UI]TPFFile Load file E:\QQWb\trunk\QQNetbar\build\bin\Release\cursor\cursor_standard\normal.cur failed!
+[2016-07-06 11:00:42.944][6864][4][app][server_comm] SendCommand error:29600001,cmd:2960
+[2016-07-06 11:00:49.618][6864][4][TPF_UI]TPFFile Load file E:\QQWb\trunk\QQNetbar\build\bin\Release\cursor\cursor_standard\link.cur failed!
+[2016-07-12 00:02:22.871][6864][4][app][server_comm] SendCommand error:29510006,cmd:2952
+[2016-07-12 00:02:22.871][6864][4][server_comm] disconnect

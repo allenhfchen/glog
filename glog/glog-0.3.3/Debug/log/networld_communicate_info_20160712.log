@@ -1,0 +1,9 @@
+Log file created at: 2016/07/12 00:02:07
+Running on machine: ALLENHFCHEN-PC4
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0712 00:02:07.425642  6864 networld_communicate.cpp:566] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::CmdExecute->cmd is get,NetbarType=1
+I0712 00:02:07.428642  6864 networld_communicate.cpp:573] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::CmdExecute->cmd is set,NetbarType=0,old type=4
+I0712 00:02:07.430641 16700 CTCPServer.cpp:1220] CTCPServer::ReportNetbarType->[CTCPServer::ReportNetbarType]Start Report New NetbarType,NetbarType=0
+I0712 00:02:07.430641 16700 CTCPServer.cpp:1256] CTCPServer::ReportNetbarType->[CTCPServer::ReportNetbarType]Report New NetbarType to client success,ClientSize=0
+I0712 00:02:08.870785  6864 networld_communicate.cpp:355] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::RoleChanged->[CNetworld_Communicate::RoleChanged]Changed type is 1,need not change.Because role changed cmd from this module
+I0712 00:02:26.532552  6864 networld_communicate.cpp:773] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::StopUdpServerThrd->Enter [CUDPServer::SetStopFlag]

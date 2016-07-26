@@ -1,0 +1,33 @@
+﻿生成启动时间为 2016/7/11 14:48:05。
+     1>项目“E:\allen的vs学习工程\glog-allen定制版-1011011版本发布后修复\glog-0.3.3\vsprojects\libglog\libglog.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\libglog.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\src\windows /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D LIBGLOG_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\src\LogDelOperate.cpp ..\..\src\logging.cc
+         logging.cc
+         LogDelOperate.cpp
+         正在生成代码...
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\allen的vs学习工程\glog-allen定制版-1011011版本发布后修复\glog-0.3.3\Debug\libglog.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\libglog.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\allen的vs学习工程\glog-allen定制版-1011011版本发布后修复\glog-0.3.3\Debug\libglog.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\allen的vs学习工程\glog-allen定制版-1011011版本发布后修复\glog-0.3.3\Debug\libglog.lib" /MACHINE:X86 /DLL Debug\libglog.dll.embed.manifest.res
+         Debug\LogDelOperate.obj
+         Debug\logging.obj
+         Debug\port.obj
+         Debug\raw_logging.obj
+         Debug\utilities.obj
+         Debug\vlog_is_on.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\libglog.dll.embed.manifest" /manifest Debug\libglog.dll.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         libglog.vcxproj -> E:\allen的vs学习工程\glog-allen定制版-1011011版本发布后修复\glog-0.3.3\Debug\libglog.dll
+       FinalizeBuildStatus:
+         正在删除文件“Debug\libglog.unsuccessfulbuild”。
+         正在对“Debug\libglog.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\allen的vs学习工程\glog-allen定制版-1011011版本发布后修复\glog-0.3.3\vsprojects\libglog\libglog.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.45

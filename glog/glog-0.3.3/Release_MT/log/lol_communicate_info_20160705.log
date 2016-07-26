@@ -1,0 +1,59 @@
+Log file created at: 2016/07/05 16:42:09
+Running on machine: ALLENHFCHEN-PC4
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0705 16:42:09.781666 20404 lol_communicate.cpp:993] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::GetNetbarAccount->Get sAccounts and iNetbarID success!sAccounts=lyclsgz,iNetbarID=186
+I0705 16:42:09.784667 26632 UdpServer.cpp:268] CUDPServer::CreateUdpServer->UDP Server Start Success!
+I0705 16:42:09.795667 20404 lol_communicate.cpp:436] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::startTcpSelectServer->Tcp Server Start!LocalIp:10.32.205.44,Port:10003
+I0705 16:43:58.897577 20404 lol_communicate.cpp:687] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::Get_Set_LoginStatus->[Get LolBtn LoginState]set_snetbaraccount:lyclsgz,set_unetbarid:186,set_suniquecode:4C49FBF2D37EB133A4F14594237D8E39
+I0705 16:43:58.924579 20404 TcpClient.cpp:147] CTcpClient::SendData->[CTcpClient::SendData]senddata success,datasize=78
+I0705 16:43:58.931579 20404 TcpClient.cpp:170] CTcpClient::Close->socket close,socket=324
+I0705 16:43:58.931579 20404 lol_communicate.cpp:759] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::LolStatusCommunicate-><===connect server success,ip=rewards.wb.qq.com===>
+I0705 16:43:58.931579 20404 TcpClient.cpp:170] CTcpClient::Close->socket close,socket=324
+I0705 16:43:58.931579 20404 lol_communicate.cpp:781] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::ParseLolStatus->nMessageType=10001,nRecvSize=11,result=0,errorMsg=success
+I0705 16:43:58.931579 20404 lol_communicate.cpp:816] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::ParseLolStatus->GetLoginStatus Success,LolBtn Was Open!
+I0705 16:44:21.343821 18244 CTCPServer.cpp:407] CTCPServer::evconnlistener_cb->clientIp=[10.32.205.44]new socket connect
+I0705 16:44:21.957882 18244 CTCPServer.cpp:407] CTCPServer::evconnlistener_cb->clientIp=[10.32.205.44]new socket connect
+I0705 16:44:21.975884 18244 CTCPServer.cpp:269] CTCPServer::bufferevent_read_data_cb->Recv Complete,DataSize=1068
+I0705 16:44:21.975884 18244 CTCPServer.cpp:617] CTCPServer::SendDataToClient->SendData to client success
+I0705 16:44:21.975884 18244 CTCPServer.cpp:307] CTCPServer::bufferevent_read_data_cb->Recv Data Decrypt succes
+I0705 16:44:21.983885 18244 TcpClient.cpp:147] CTcpClient::SendData->[CTcpClient::SendData]senddata success,datasize=1010
+I0705 16:44:22.000886 18244 TcpClient.cpp:170] CTcpClient::Close->socket close,socket=1536
+I0705 16:44:22.000886 18244 lol_communicate.cpp:604] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::funcMsgTransmit-><===connect server success,ip=rewards.wb.qq.com===>
+I0705 16:44:22.000886 18244 lol_communicate.cpp:620] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::funcMsgTransmit->nRecvSize=11,result=0,errorMsg=success
+I0705 16:44:22.000886 18244 lol_communicate.cpp:655] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::funcMsgTransmit->Send data success,set_u64uin=0,set_versionnumber=844424930296250,set_uniquecode=4C49FBF2D37EB133A4F14594237D8E39,								   set_uzoneid=0,set_stmac=3464A915BA02_,set_ucrc=3893027624,cComputerName=ALLENHFCHEN-PC4,NetBarServerIp=rewards.wb.qq.com,								   set_snetbaraccount=lyclsgz,set_unetbarid=186,MesgType=ReportOnlyMachineIdentity,MachineInfoLen=598
+I0705 16:44:22.000886 18244 TcpClient.cpp:170] CTcpClient::Close->socket close,socket=1536
+I0705 16:45:47.314417 18244 CTCPServer.cpp:407] CTCPServer::evconnlistener_cb->clientIp=[10.32.205.44]new socket connect
+I0705 16:45:47.771462 18244 CTCPServer.cpp:407] CTCPServer::evconnlistener_cb->clientIp=[10.32.205.44]new socket connect
+I0705 16:45:47.796465 18244 CTCPServer.cpp:269] CTCPServer::bufferevent_read_data_cb->Recv Complete,DataSize=1068
+I0705 16:45:47.796465 18244 CTCPServer.cpp:617] CTCPServer::SendDataToClient->SendData to client success
+I0705 16:45:47.796465 18244 CTCPServer.cpp:307] CTCPServer::bufferevent_read_data_cb->Recv Data Decrypt succes
+I0705 16:45:47.829468 18244 TcpClient.cpp:147] CTcpClient::SendData->[CTcpClient::SendData]senddata success,datasize=1015
+I0705 16:45:47.849470 18244 TcpClient.cpp:170] CTcpClient::Close->socket close,socket=1508
+I0705 16:45:47.849470 18244 lol_communicate.cpp:604] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::funcMsgTransmit-><===connect server success,ip=rewards.wb.qq.com===>
+I0705 16:45:47.849470 18244 lol_communicate.cpp:620] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::funcMsgTransmit->nRecvSize=11,result=0,errorMsg=success
+I0705 16:45:47.849470 18244 lol_communicate.cpp:655] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::funcMsgTransmit->Send data success,set_u64uin=1025646193,set_versionnumber=844424930323366,set_uniquecode=4C49FBF2D37EB133A4F14594237D8E39,								   set_uzoneid=257,set_stmac=3464A915BA02_,set_ucrc=1504887480,cComputerName=ALLENHFCHEN-PC4,NetBarServerIp=rewards.wb.qq.com,								   set_snetbaraccount=lyclsgz,set_unetbarid=186,MesgType=ReportFull,MachineInfoLen=598
+I0705 16:45:47.849470 18244 TcpClient.cpp:170] CTcpClient::Close->socket close,socket=1508
+I0705 16:47:00.885773 18244 CTCPServer.cpp:407] CTCPServer::evconnlistener_cb->clientIp=[10.32.205.44]new socket connect
+I0705 16:47:01.369822 18244 CTCPServer.cpp:407] CTCPServer::evconnlistener_cb->clientIp=[10.32.205.44]new socket connect
+I0705 16:47:01.383823 18244 CTCPServer.cpp:269] CTCPServer::bufferevent_read_data_cb->Recv Complete,DataSize=1068
+I0705 16:47:01.383823 18244 CTCPServer.cpp:617] CTCPServer::SendDataToClient->SendData to client success
+I0705 16:47:01.383823 18244 CTCPServer.cpp:307] CTCPServer::bufferevent_read_data_cb->Recv Data Decrypt succes
+I0705 16:47:01.403825 18244 TcpClient.cpp:147] CTcpClient::SendData->[CTcpClient::SendData]senddata success,datasize=1010
+I0705 16:47:01.420826 18244 TcpClient.cpp:170] CTcpClient::Close->socket close,socket=960
+I0705 16:47:01.420826 18244 lol_communicate.cpp:604] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::funcMsgTransmit-><===connect server success,ip=rewards.wb.qq.com===>
+I0705 16:47:01.420826 18244 lol_communicate.cpp:620] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::funcMsgTransmit->nRecvSize=11,result=0,errorMsg=success
+I0705 16:47:01.420826 18244 lol_communicate.cpp:655] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::funcMsgTransmit->Send data success,set_u64uin=0,set_versionnumber=844424930297984,set_uniquecode=4C49FBF2D37EB133A4F14594237D8E39,								   set_uzoneid=0,set_stmac=3464A915BA02_,set_ucrc=3381710805,cComputerName=ALLENHFCHEN-PC4,NetBarServerIp=rewards.wb.qq.com,								   set_snetbaraccount=lyclsgz,set_unetbarid=186,MesgType=ReportOnlyMachineIdentity,MachineInfoLen=598
+I0705 16:47:01.420826 18244 TcpClient.cpp:170] CTcpClient::Close->socket close,socket=960
+Log file created at: 2016/07/05 17:12:26
+Running on machine: ALLENHFCHEN-PC4
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0705 17:12:26.276242  5596 lol_communicate.cpp:993] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::GetNetbarAccount->Get sAccounts and iNetbarID success!sAccounts=lyclsgz,iNetbarID=186
+I0705 17:12:26.286242  7564 UdpServer.cpp:268] CUDPServer::CreateUdpServer->UDP Server Start Success!
+I0705 17:12:26.296241  5596 lol_communicate.cpp:436] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::startTcpSelectServer->Tcp Server Start!LocalIp:10.32.205.44,Port:10003
+I0705 17:12:37.772014  5596 lol_communicate.cpp:423] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::StopUdpServerThrd->Enter [CUDPServer::SetStopFlag]
+Log file created at: 2016/07/05 17:26:34
+Running on machine: ALLENHFCHEN-PC4
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0705 17:26:34.806617 11824 lol_communicate.cpp:993] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::GetNetbarAccount->Get sAccounts and iNetbarID success!sAccounts=lyclsgz,iNetbarID=186
+I0705 17:26:34.808616 11256 UdpServer.cpp:268] CUDPServer::CreateUdpServer->UDP Server Start Success!
+I0705 17:26:34.820616 11824 lol_communicate.cpp:436] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::startTcpSelectServer->Tcp Server Start!LocalIp:10.32.205.44,Port:10003

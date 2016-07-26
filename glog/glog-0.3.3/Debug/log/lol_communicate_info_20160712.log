@@ -1,0 +1,20 @@
+Log file created at: 2016/07/12 00:02:02
+Running on machine: ALLENHFCHEN-PC4
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0712 00:02:02.629161  6864 lol_communicate.cpp:687] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::Get_Set_LoginStatus->[Get LolBtn LoginState]set_snetbaraccount:lyclsgz,set_unetbarid:186,set_suniquecode:4C49FBF2D37EB133A4F14594237D8E39
+I0712 00:02:02.669165  6864 TcpClient.cpp:147] CTcpClient::SendData->[CTcpClient::SendData]senddata success,datasize=78
+I0712 00:02:02.674166  6864 TcpClient.cpp:170] CTcpClient::Close->socket close,socket=1508
+I0712 00:02:02.674166  6864 lol_communicate.cpp:759] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::LolStatusCommunicate-><===connect server success,ip=rewards.wb.qq.com===>
+I0712 00:02:02.674166  6864 TcpClient.cpp:170] CTcpClient::Close->socket close,socket=1508
+I0712 00:02:02.674166  6864 lol_communicate.cpp:781] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::ParseLolStatus->nMessageType=10001,nRecvSize=11,result=0,errorMsg=success
+I0712 00:02:02.674166  6864 lol_communicate.cpp:816] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::ParseLolStatus->GetLoginStatus Success,LolBtn Was Open!
+I0712 00:02:03.603260  6864 lol_communicate.cpp:701] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::Get_Set_LoginStatus->[Set LolBtn LoginState]set_snetbaraccount:lyclsgz,set_unetbarid:186,set_suniquecode:4C49FBF2D37EB133A4F14594237D8E39,set_status:0,					set_stoken:La1fqm
+I0712 00:02:03.609259  6864 TcpClient.cpp:147] CTcpClient::SendData->[CTcpClient::SendData]senddata success,datasize=88
+I0712 00:02:03.614260  6864 TcpClient.cpp:170] CTcpClient::Close->socket close,socket=1504
+I0712 00:02:03.614260  6864 lol_communicate.cpp:759] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::LolStatusCommunicate-><===connect server success,ip=rewards.wb.qq.com===>
+I0712 00:02:03.614260  6864 TcpClient.cpp:170] CTcpClient::Close->socket close,socket=1504
+I0712 00:02:03.615260  6864 lol_communicate.cpp:781] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::ParseLolStatus->nMessageType=10002,nRecvSize=4,result=2,errorMsg=
+E0712 00:02:03.615260  6864 lol_communicate.cpp:808] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::ParseLolStatus->SetLoginStatus Fail,Token Was TimeOut!
+I0712 00:02:08.870785  6864 lol_communicate.cpp:230] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::RoleChanged->[RoleChanged]----->Ori role=0,new role=1<-----
+I0712 00:02:08.870785  6864 lol_communicate.cpp:255] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::RoleChanged->[CLol_Communicate::RoleChanged]Changed type is 1,need not									   to change.Because role changed cmd from this module
+I0712 00:02:24.486347  6864 lol_communicate.cpp:423] iepm_qqwb::lol_communicate::CLol_Communicate::Pimpl::StopUdpServerThrd->Enter [CUDPServer::SetStopFlag]

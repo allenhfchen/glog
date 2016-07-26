@@ -1,0 +1,7 @@
+Log file created at: 2016/07/09 23:58:59
+Running on machine: ALLENHFCHEN-PC4
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0709 23:58:59.266026 16424 networld_communicate.cpp:360] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceConfigUpdate->VoicePushConfig update_time=1467773622
+I0709 23:59:01.772276  6864 networld_communicate.cpp:1018] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->VoiceGetConfig success
+I0709 23:59:13.770475 16424 networld_communicate.cpp:360] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceConfigUpdate->VoicePushConfig update_time=1467773636
+I0709 23:59:16.741773  6864 networld_communicate.cpp:1018] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::VoiceGetConfig->VoiceGetConfig success

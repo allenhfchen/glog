@@ -1,0 +1,23 @@
+Log file created at: 2015/07/06 16:53:51
+Running on machine: ALLENHFCHEN-PC2
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0706 16:53:51.153354  6040 networldmanager.cpp:415] CNetWorldManager::GetDataFromHttp()->当前浏览器无法获取硬件信息，请使用IE浏览器登录
+E0706 16:53:51.160354  6040 networldmanager.cpp:130] CNetWorldManager::Login()->login error,code=2
+E0706 16:53:51.440326  6040 networldmanager.cpp:415] CNetWorldManager::GetDataFromHttp()->当前浏览器无法获取硬件信息，请使用IE浏览器登录
+E0706 16:53:51.441325  6040 networldmanager.cpp:130] CNetWorldManager::Login()->login error,code=2
+E0706 16:53:51.710299  6040 networldmanager.cpp:415] CNetWorldManager::GetDataFromHttp()->当前浏览器无法获取硬件信息，请使用IE浏览器登录
+E0706 16:53:51.711298  6040 networldmanager.cpp:130] CNetWorldManager::Login()->login error,code=2
+E0706 16:53:51.978272  6040 networldmanager.cpp:415] CNetWorldManager::GetDataFromHttp()->当前浏览器无法获取硬件信息，请使用IE浏览器登录
+E0706 16:53:51.979272  6040 networldmanager.cpp:130] CNetWorldManager::Login()->login error,code=2
+E0706 16:53:52.246245  6040 networldmanager.cpp:415] CNetWorldManager::GetDataFromHttp()->当前浏览器无法获取硬件信息，请使用IE浏览器登录
+E0706 16:53:52.248245  6040 networldmanager.cpp:130] CNetWorldManager::Login()->login error,code=2
+E0706 16:53:52.514219  6040 networldmanager.cpp:415] CNetWorldManager::GetDataFromHttp()->当前浏览器无法获取硬件信息，请使用IE浏览器登录
+E0706 16:53:52.517218  6040 networldmanager.cpp:130] CNetWorldManager::Login()->login error,code=2
+E0706 16:53:52.787191  6040 networldmanager.cpp:415] CNetWorldManager::GetDataFromHttp()->当前浏览器无法获取硬件信息，请使用IE浏览器登录
+E0706 16:53:52.788192  6040 networldmanager.cpp:130] CNetWorldManager::Login()->login error,code=2
+E0706 16:53:53.066164  6040 networldmanager.cpp:415] CNetWorldManager::GetDataFromHttp()->当前浏览器无法获取硬件信息，请使用IE浏览器登录
+E0706 16:53:53.067163  6040 networldmanager.cpp:130] CNetWorldManager::Login()->login error,code=2
+E0706 16:53:53.340137  6040 networldmanager.cpp:415] CNetWorldManager::GetDataFromHttp()->当前浏览器无法获取硬件信息，请使用IE浏览器登录
+E0706 16:53:53.342135  6040 networldmanager.cpp:130] CNetWorldManager::Login()->login error,code=2
+E0706 16:53:53.606109  6040 networldmanager.cpp:415] CNetWorldManager::GetDataFromHttp()->当前浏览器无法获取硬件信息，请使用IE浏览器登录
+E0706 16:53:53.606109  6040 networldmanager.cpp:130] CNetWorldManager::Login()->login error,code=2

@@ -1,0 +1,10 @@
+Log file created at: 2016/07/09 17:09:59
+Running on machine: ALLENHFCHEN-PC4
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0709 17:09:59.079996 20404 networld_communicate.cpp:773] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::StopUdpServerThrd->Enter [CUDPServer::SetStopFlag]
+Log file created at: 2016/07/09 17:29:06
+Running on machine: ALLENHFCHEN-PC4
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0709 17:29:06.096520 13236 networld_communicate.cpp:355] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::RoleChanged->[CNetworld_Communicate::RoleChanged]Changed type is 5,need not change.Because role changed cmd from this module
+I0709 17:29:14.278836 13236 networld_communicate.cpp:355] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::RoleChanged->[CNetworld_Communicate::RoleChanged]Changed type is 13,need not change.Because role changed cmd from this module
+I0709 17:29:34.729635 11824 networld_communicate.cpp:773] iepm_qqwb::networld_communicate::CNetworld_Communicate::Pimpl::StopUdpServerThrd->Enter [CUDPServer::SetStopFlag]
